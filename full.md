@@ -1613,27 +1613,20 @@ Worried about infrequent backups leading to serious progress losses due to the w
 ### Basic Information
 
 - Plugin ID: `wiki_request`
-- Plugin Name: Wiki Request Plugin
-- Version: 3.0
-  - Metadata version: 3.0
-  - Release version: 3.0
+- Version: *Data fetching failed*
 - Total downloads: 1322
 - Authors: [DrLee_lihr](https://github.com/DrLee-lihr)
 - Repository: https://github.com/DrLee-lihr/WikiRequest
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: A plugin to look up any MediaWiki
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-alpha.1 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [requests](https://pypi.org/project/requests) | ==2.26.0 |
+*Data fetching failed*
 
 ### Introduction
 

@@ -1614,27 +1614,20 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 ### 基本信息
 
 - 插件 ID: `wiki_request`
-- 插件名: Wiki Request Plugin
-- 版本: 3.0
-  - 元数据版本: 3.0
-  - 发布版本: 3.0
+- 版本: *数据拉取失败*
 - 总下载量: 1322
 - 作者: [DrLee_lihr](https://github.com/DrLee-lihr)
 - 仓库: https://github.com/DrLee-lihr/WikiRequest
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: A plugin to look up any MediaWiki
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-alpha.1 |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [requests](https://pypi.org/project/requests) | ==2.26.0 |
+*数据拉取失败*
 
 ### 介绍
 
